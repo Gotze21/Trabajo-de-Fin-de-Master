@@ -25,9 +25,9 @@ Los datos provienen de la ENAHO 2022, con una muestra probabilística estratifi
 - **Capacidad predictiva:** 69,40 % de acierto en la clasificación .
 
 ## Resultados Principales
-- **Ingreso:** Un aumento en el logaritmo del ingreso monetario neto anual disminuye la probabilidad de usar leña y estiércol en 2,10 % y 1,38 % respectivamente, y aumenta la de usar GLP en 3,87 % :contentReference[oaicite:10]{index=10}.  
-- **Educación:** Los hogares con jefes con educación superior tienen hasta 27 % más probabilidad de usar combustibles modernos como GLP o electricidad :contentReference[oaicite:11]{index=11}.  
-- **Ubicación:** Vivir en área rural incrementa la probabilidad de usar leña y estiércol en 10,62 % y 5,10 %, y reduce el uso de gas natural en 15,73 % :contentReference[oaicite:12]{index=12}.  
+- **Ingreso:** Un aumento en el logaritmo del ingreso monetario neto anual disminuye la probabilidad de usar leña y estiércol en 2,10 % y 1,38 % respectivamente, y aumenta la de usar GLP en 3,87 %.  
+- **Educación:** Los hogares con jefes con educación superior tienen hasta 27 % más probabilidad de usar combustibles modernos como GLP o electricidad.  
+- **Ubicación:** Vivir en área rural incrementa la probabilidad de usar leña y estiércol en 10,62 % y 5,10 %, y reduce el uso de gas natural en 15,73 %.  
 - **Infraestructura:** La propiedad de la vivienda, materiales de construcción y acceso a servicios básicos afectan significativamente la elección de combustible.
 
 ## Conclusiones
