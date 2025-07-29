@@ -4,11 +4,10 @@
 
 **Autor:** D. Mauricio Enrique Guerra Castellanos  
 **Tutor:** Dra. Mercedes Burguillo Cuesta  
-**Fecha:** 16 de septiembre de 2024 :contentReference[oaicite:7]{index=7}
+**Fecha:** 16 de septiembre de 2024
 
 ## Descripción
-Este trabajo investiga los factores que determinan la elección del combustible para cocinar en los hogares peruanos. Utiliza datos de la Encuesta Nacional de Hogares (ENAHO) 2022 y un modelo Probit Multinomial para evaluar la influencia de variables socioeconómicas, demográficas e infraestructurales, calculando además los efectos marginales de cada factor :contentReference[oaicite:8]{index=8}.
-
+Este trabajo investiga los factores que determinan la elección del combustible para cocinar en los hogares peruanos. Utiliza datos de la Encuesta Nacional de Hogares (ENAHO) 2022 y un modelo Probit Multinomial para evaluar la influencia de variables socioeconómicas, demográficas e infraestructurales, calculando además los efectos marginales de cada factor 
 ## Tabla de Contenidos
 - [Datos](#datos)  
 - [Metodología](#metodología)  
